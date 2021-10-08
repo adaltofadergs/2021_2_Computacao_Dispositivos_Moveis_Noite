@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "147956139138",
+    "firebase_url": "https://apppersist-2021-2-n-default-rtdb.firebaseio.com",
+    "project_id": "apppersist-2021-2-n",
+    "storage_bucket": "apppersist-2021-2-n.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147956139138:android:ccae4a83c0fb5afddf209b",
+        "android_client_info": {
+          "package_name": "br.pro.adalto.apppersist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147956139138-nced0nrkq5qa7h3hjs9hsppleq98lu3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpuUmtm7yMEyBbXITMj0-zeoshJjAsQOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147956139138-nced0nrkq5qa7h3hjs9hsppleq98lu3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

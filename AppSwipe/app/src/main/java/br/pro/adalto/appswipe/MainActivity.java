@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         tvDirecao = findViewById(R.id.tvDirecao);
         fundoDaTela = findViewById(R.id.fundoDaTela);
 
-        
+
         fundoDaTela.setOnTouchListener( new OnSwipeTouchListener(this) {
 
             @Override
